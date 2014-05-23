@@ -1,12 +1,12 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background: #BEC1C6;
 }
 
 #header
 {
-	background: #ccc;
+	background: #a2000a;
 	padding: 20px;
 }
 
@@ -48,10 +48,11 @@
 	clear: left;
 	padding: 20px;
 	margin: 20px;
+	background-color: #F6F6D0; 
 	-webkit-border-radius: 18px;
-	border-radius: 18px;
-	-webkit-box-shadow: 0px 0px 6px #000000;
-	box-shadow: 0px 0px 6px #000000;
+	border-radius: 30px;
+	-webkit-box-shadow: 0px 0px 10px #000000;
+	box-shadow: 0px 0px 10px #a2000a;
 	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
 	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
 	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
@@ -70,13 +71,14 @@
 #news
 {	
 	float: left;
+	background-color: #F6F6D0;
 	width: 40%;
 	padding: 20px;
 	margin: 20px;
 	-webkit-border-radius: 18px;
-	border-radius: 18px;
-	-webkit-box-shadow: 0px 0px 6px #000000;
-	box-shadow: 0px 0px 6px #000000;
+	border-radius: 30px;
+	-webkit-box-shadow: 0px 0px 10px #000000;
+	box-shadow: 0px 0px 10px #a2000a;
 	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
 	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
 	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
@@ -88,8 +90,8 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
-	text-align: right;
+	background: #a2000a;
+	text-align: center;
 	padding: 20px;
 	height: 1%;
 }
