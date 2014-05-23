@@ -16,7 +16,7 @@
 {
 	float: left;
 	width: 100%;
-	background: #333;
+	background: #4682B4;
 }
 
 #navigation ul
@@ -48,12 +48,22 @@
 	clear: left;
 	padding: 20px;
 	margin: 20px;
+<<<<<<< HEAD
 	background-color: #F6F6D0; 
 	-webkit-border-radius: 18px;
 	border-radius: 30px;
 	-webkit-box-shadow: 0px 0px 10px #000000;
 	box-shadow: 0px 0px 10px #a2000a;
 	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
+=======
+	font-size: medium;
+	font-weight : bold;
+	-webkit-border-radius: 18px;
+	border-radius: 18px;
+	-webkit-box-shadow: 0px 0px 6px #000000;
+	box-shadow: 0px 0px 6px #000000;
+	background-image: url(minions-film.jpg);
+>>>>>>> 2a9501fffda68b91fac69c54139461fa2a4e38a5
 	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
 	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
 	-webkit-background-clip: padding-box;
